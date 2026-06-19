@@ -1,8 +1,7 @@
-# REPO NAME: EagleTemplate-migrate
-## License: CERN Open Hardware Licence v1.2
+# REPO NAME: MRCS-RSMC_relay
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-Delete one of the two license lines above and replace this line and following with the contents of the doc.md file
+
 
 ### How to use this template:
 
