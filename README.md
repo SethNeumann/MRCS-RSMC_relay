@@ -1,16 +1,9 @@
 # REPO NAME: MRCS-RSMC_relay
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-
-
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Copy over your existing .sch and .brd files
-    * rename them if needed to match the repo name you chose...
-  3. Edit the other text files to describe this project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+Chuck Catania created the Remote Stall Motor Controller for CMRi and cpNode systems to make a single board controller for
+common stall motor functions: 
+drive (reverse 12V DC to steer the motor) 
+Break out Frog power using heavy traces and a 3 position 3.5mm connector
+used the second contact to provide power and limiting resistors for indicator LEDs on a panel or dwarf signal 
+This board replaces the TC4428 with a DPDT relay to provide a full metallic connection to avoid sneak paths in the FETs.
